@@ -1,0 +1,28 @@
+@media (max-width: 767px) {
+    .main{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 94%;
+        margin-left: 0.7rem;
+        
+     
+     
+    } 
+    .left-a{
+        margin: 0.5rem;
+
+    }
+    .lorem{
+        font-size: 1rem;
+    }
+    .cover-img{
+        max-height: 14rem;
+
+    }
+    .last{
+        font-size: 0.4rem;
+    }
+
+}
